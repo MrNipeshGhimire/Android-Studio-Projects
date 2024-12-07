@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multiple Activity</string>
+    <string-array name="lstClass">
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>BCA</item>
+        <item>BCA</item>
+        <item>BCA</item>
+        <item>BCA</item>
+        <item>BCA</item>
+
+
+    </string-array>
+</resources>

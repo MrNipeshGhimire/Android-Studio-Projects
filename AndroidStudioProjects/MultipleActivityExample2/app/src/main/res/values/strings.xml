@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultipleActivityExample2</string>
+    <string-array name="classList">
+        <item>BBS</item>
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>BHM</item>
+        <item>BSW</item>
+        <item>Bsc.Csit</item>
+        <item>BIT</item>
+    </string-array>
+</resources>
